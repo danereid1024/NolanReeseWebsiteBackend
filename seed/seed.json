@@ -1,0 +1,489 @@
+[
+    {
+      "albumId": 0,
+      "albumTitle": "10.03",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2018-10-03",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/10.03.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "SS",
+          "duration": "3:53",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Eleven Seventeen",
+          "duration": "3:57",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 2,
+          "songTitle": "Harder to Lie",
+          "duration": "4:14",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Tonight",
+          "duration": "4:36",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        }
+      ]
+    },
+    {
+      "albumId": 1,
+      "albumTitle": "Time & Space",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2018-12-14",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/timeandspace.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "The One Who Fails",
+          "duration": "4:01",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Gotham",
+          "duration": "5:31",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 2,
+          "songTitle": "Time & Space Mean Nothing Without You",
+          "duration": "6:29",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Unconstrainted",
+          "duration": "4:15",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        }
+      ]
+    },
+    {
+      "albumId": 2,
+      "albumTitle": "Come Again",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2019-12-31",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/comeagain.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Come Again",
+          "duration": "4:10",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2019-12-31"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Forgotten",
+          "duration": "4:09",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2019-12-31"
+        },
+        {
+          "songId": 2,
+          "songTitle": "Shatter",
+          "duration": "3:09",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2019-12-31"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Broken Piano Version",
+          "duration": "3:42",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2019-12-31"
+        }
+      ]
+    },
+    {
+      "albumId": 3,
+      "albumTitle": "003",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2023-03-10",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/003.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Rejoyce",
+          "duration": "1:40",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Embrace",
+          "duration": "3:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 2,
+          "songTitle": "10",
+          "duration": "3:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Precedence",
+          "duration": "2:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 4,
+          "songTitle": "The Descend",
+          "duration": "2:11",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 5,
+          "songTitle": "Arise",
+          "duration": "1:22",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 6,
+          "songTitle": "Tribute",
+          "duration": "3:47",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 7,
+          "songTitle": "Echelon",
+          "duration": "2:56",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 8,
+          "songTitle": "The Other World",
+          "duration": "2:15",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 9,
+          "songTitle": "003",
+          "duration": "3:08",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        }
+      ]
+    },
+    {
+      "albumId": 4,
+      "albumTitle": "003A",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2023-03-10",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/003A.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Rejoyce (Acoustic)",
+          "duration": "1:40",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Embrace (Acoustic)",
+          "duration": "3:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 2,
+          "songTitle": "10 (Acoustic)",
+          "duration": "3:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Precedence (Acoustic)",
+          "duration": "2:39",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 4,
+          "songTitle": "The Descend (Acoustic)",
+          "duration": "2:11",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 5,
+          "songTitle": "Arise (Acoustic)",
+          "duration": "1:22",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 6,
+          "songTitle": "Tribute (Acoustic)",
+          "duration": "3:47",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 7,
+          "songTitle": "Echelon (Acoustic)",
+          "duration": "2:56",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 8,
+          "songTitle": "The Other World",
+          "duration": "2:15",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 9,
+          "songTitle": "003A",
+          "duration": "3:08",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 10,
+          "songTitle": "Broken (Acoustic)",
+          "duration": "4:03",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 11,
+          "songTitle": "Come Again (H Again)",
+          "duration": "4:03",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        },
+        {
+          "songId": 12,
+          "songTitle": "Cuerdas Del Coraźon (Stripped)",
+          "duration": "3:14",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-03-10"
+        }
+      ]
+    },
+    {
+      "albumId": 5,
+      "albumTitle": "E.V.O",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2023-07-04",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/E.V.O.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Evolve",
+          "duration": "2:27",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-07-04"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Vici",
+          "duration": "3:30",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-07-04"
+        },
+        {
+          "songId": 2,
+          "songTitle": "Oath",
+          "duration": "3:45",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-07-04"
+        }
+      ]
+    },
+    {
+      "albumId": 6,
+      "albumTitle": "30",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2023-10-03",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/30.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Rejoyce",
+          "duration": "1:47",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Evolve",
+          "duration": "2:26",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 2,
+          "songTitle": "Vici",
+          "duration": "3:30",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Obscure",
+          "duration": "2:42",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 4,
+          "songTitle": "Liberate",
+          "duration": "3:12",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 5,
+          "songTitle": "Unity",
+          "duration": "3:47",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 6,
+          "songTitle": "Triumph",
+          "duration": "3:56",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 7,
+          "songTitle": "Inspire",
+          "duration": "1:44",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 8,
+          "songTitle": "Oath",
+          "duration": "3:50",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        },
+        {
+          "songId": 9,
+          "songTitle": "Nirvana",
+          "duration": "2:29",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2023-10-03"
+        }
+      ]
+    },
+    {
+      "albumId": 7,
+      "albumTitle": "E.X.O",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2024-03-01",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/E.X.O.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Echelon v2",
+          "duration": "3:15",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Xion",
+          "duration": "3:16",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        }, {
+          "songId": 2,
+          "songTitle": "Origin",
+          "duration": "4:24",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        }
+      ]
+    }
+  ]
