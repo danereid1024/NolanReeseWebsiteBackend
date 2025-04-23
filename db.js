@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 require('dotenv').config();
 
 const connectDB = async () => {
-    const mongoURI = 'mongodb+srv://danereidcode:MdusDeBbh1YWWUXT@cluster0.k2lphnw.mongodb.net/nolanDB?retryWrites=true&w=majority&appName=Cluster0'
+    const mongoURI = 'mongodb+srv://danereidcode:MdusDeBbh1YWWUXT@cluster0.k2lphnw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
   
     try {
       const conn = await mongoose.connect(mongoURI);
