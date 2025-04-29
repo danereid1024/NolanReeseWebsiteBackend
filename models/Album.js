@@ -32,6 +32,10 @@ const albumSchema = new mongoose.Schema({
                 type: Number,
                 required: true,
             },
+            spotifyId: {
+                type: String,
+                required: true,
+            },
             songTitle: {
                 type: String,
                 required: true,

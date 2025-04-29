@@ -9,7 +9,8 @@
       "trackList": [
         {
           "songId": 0,
-          "songTitle": "SS",
+          "songTitle": "The Fog",
+          "spotifyId": "https://open.spotify.com/embed/track/5oiamWThnIErZXyRVmV8Uu?si=b7ec3a6c984c4430?utm_source=generator",
           "duration": "3:53",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -17,24 +18,108 @@
         },
         {
           "songId": 1,
-          "songTitle": "Eleven Seventeen",
-          "duration": "3:57",
+          "songTitle": "I Don't Know",
+          "spotifyId": "https://open.spotify.com/embed/track/4VIDNJOqPLOOdihlSMdkN2?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:08",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-10-03"
         },
         {
           "songId": 2,
-          "songTitle": "Harder to Lie",
-          "duration": "4:14",
+          "songTitle": "Trial",
+          "spotifyId": "https://open.spotify.com/embed/track/3lW406DWIy7QmLDswowhXn?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:29",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-10-03"
         },
         {
           "songId": 3,
+          "songTitle": "Multed",
+          "spotifyId": "https://open.spotify.com/embed/track/5NF4Xx1VDM4QBwTmK8AtLz?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:16",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 4,
+          "songTitle": "Void",
+          "spotifyId": "https://open.spotify.com/embed/track/0AJIrRZZAiC6gfw8yEb92A?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:47",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 5,
+          "songTitle": "Walking Up to You",
+          "spotifyId": "https://open.spotify.com/embed/track/12XYQ8wKwBSNGi1PI57nSG?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:30",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 6,
+          "songTitle": "Eleven Seventeen",
+          "spotifyId": "https://open.spotify.com/embed/track/5WO64P6r0wOKAbgWsyLXTd?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:36",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 7,
+          "songTitle": "Upside Down",
+          "spotifyId": "https://open.spotify.com/embed/track/3q8w8TEEgTjLyN56nD7W5h?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:32",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 8,
+          "songTitle": "Becoming Human",
+          "spotifyId": "https://open.spotify.com/embed/track/3qtdIqEOdUqwHiWvu2Ux0F?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:32",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 9,
+          "songTitle": "Trio",
+          "spotifyId": "https://open.spotify.com/embed/track/74Bcx0uP6QXxT6hzpQG4bW?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:12",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 10,
+          "songTitle": "SS",
+          "spotifyId": "https://open.spotify.com/embed/track/71b5RPEQwVWhr3x6JAN0mO?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:52",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 11,
           "songTitle": "Tonight",
+          "spotifyId": "https://open.spotify.com/embed/track/4pkzJqFNMpZDcViOcd5XYl?si=b7ec3a6c984c4430?utm_source=generator",
           "duration": "4:36",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-10-03"
+        },
+        {
+          "songId": 12,
+          "songTitle": "SS - Piano Version",
+          "spotifyId": "",
+          "duration": "3:43",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-10-03"
@@ -51,32 +136,99 @@
       "trackList": [
         {
           "songId": 0,
-          "songTitle": "The One Who Fails",
-          "duration": "4:01",
+          "songTitle": "The Legend of Time",
+          "spotifyId": "https://open.spotify.com/embed/track/2TgQCOFhrR0MzmQSWzRe4Z?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "4:12",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-12-14"
         },
         {
           "songId": 1,
-          "songTitle": "Gotham",
-          "duration": "5:31",
+          "songTitle": "Renamed",
+          "spotifyId": "https://open.spotify.com/embed/track/46MT2XAsGSjzRAXVa4dcRU?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "4:04",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-12-14"
         },
         {
           "songId": 2,
-          "songTitle": "Time & Space Mean Nothing Without You",
-          "duration": "6:29",
+          "songTitle": "The One Who Fails",
+          "spotifyId": "https://open.spotify.com/embed/track/1lqoNS7zBLtKDpkeNCNJfM?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "4:00",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-12-14"
         },
         {
           "songId": 3,
+          "songTitle": "Gotham",
+          "spotifyId": "https://open.spotify.com/embed/track/1WlA0r9gj8lqVzFnYxUaqc?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "5:30",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 4,
+          "songTitle": "Moonrays",
+          "spotifyId": "https://open.spotify.com/embed/track/6CQWVGhahyuvyLKNYyZuDK?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:48",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 5,
+          "songTitle": "Time & Space Mean Nothing Without You",
+          "spotifyId": "https://open.spotify.com/embed/track/1ynCPYzQMMRbQSwuq0Y1a2?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "6:28",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 6,
+          "songTitle": "Silence is Everything",
+          "spotifyId": "https://open.spotify.com/embed/track/2eVGS3miXqal0PJmv25bMT?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "5:27",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 7,
+          "songTitle": "Waste",
+          "spotifyId": "https://open.spotify.com/embed/track/45skX57RqAAuuSjZLm0wfz?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:52",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 8,
+          "songTitle": "Rebirth",
+          "spotifyId": "https://open.spotify.com/embed/track/4qERM13OC8MTsjMixOPQB3?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "4:04",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 9,
+          "songTitle": "Your Final Self",
+          "spotifyId": "https://open.spotify.com/embed/track/4Vphudx9bi7VKa59x1ITFj?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "9:21",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2018-12-14"
+        },
+        {
+          "songId": 10,
           "songTitle": "Unconstrainted",
-          "duration": "4:15",
+          "spotifyId": "https://open.spotify.com/embed/track/7oosfMBTxXHgHLXNLicHYs?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "4:14",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2018-12-14"
@@ -94,7 +246,8 @@
         {
           "songId": 0,
           "songTitle": "Come Again",
-          "duration": "4:10",
+          "spotifyId": "https://open.spotify.com/embed/track/4BgDBOBvXGCgFZjX4lsydx?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:52",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2019-12-31"
@@ -102,23 +255,35 @@
         {
           "songId": 1,
           "songTitle": "Forgotten",
-          "duration": "4:09",
+          "spotifyId": "https://open.spotify.com/embed/track/7HxgsjCS0gk3nHtTpVtMfg?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:06",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2019-12-31"
         },
         {
           "songId": 2,
-          "songTitle": "Shatter",
-          "duration": "3:09",
+          "songTitle": "Who Are You",
+          "spotifyId": "https://open.spotify.com/embed/track/6wW4EPDXTOWewoXrbwZVoh?si=b7ec3a6c984c4430?utm_source=generator",
+          "duration": "3:23",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2019-12-31"
         },
         {
           "songId": 3,
+          "songTitle": "Shatter",
+          "spotifyId": "https://open.spotify.com/embed/track/6wPs0UbGjF8qzxPMFbILwv?utm_source=generator",
+          "duration": "2:59",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2019-12-31"
+        },
+        {
+          "songId": 4,
           "songTitle": "Broken Piano Version",
-          "duration": "3:42",
+          "spotifyId": "https://open.spotify.com/embed/track/64TMYWgFdA7mDavI2A1AIr?utm_source=generator",
+          "duration": "2:59",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2019-12-31"
@@ -136,7 +301,8 @@
         {
           "songId": 0,
           "songTitle": "Rejoyce",
-          "duration": "1:40",
+          "spotifyId": "2qsWiR99SrqQBn6vPOSncd",
+          "duration": "1:41",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2023-03-10"
@@ -144,7 +310,8 @@
         {
           "songId": 1,
           "songTitle": "Embrace",
-          "duration": "3:39",
+          "spotifyId": "3gJp3HNoVSjuedsBst3WEs",
+          "duration": "3:45",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2023-03-10"
@@ -152,6 +319,7 @@
         {
           "songId": 2,
           "songTitle": "10",
+          "spotifyId": "1T4nMPzKqU8waUm5DcpUFR",
           "duration": "3:39",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -160,6 +328,7 @@
         {
           "songId": 3,
           "songTitle": "Precedence",
+          "spotifyId": "4vNU1jm0AXNyB7m7wwhtbe",
           "duration": "2:39",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -168,6 +337,7 @@
         {
           "songId": 4,
           "songTitle": "The Descend",
+          "spotifyId": "5pUYwZWl9XYOs0eHJWyTHh",
           "duration": "2:11",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -176,6 +346,7 @@
         {
           "songId": 5,
           "songTitle": "Arise",
+          "spotifyId": "6hXABGZLuK0Lwb48vdfape",
           "duration": "1:22",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -184,6 +355,7 @@
         {
           "songId": 6,
           "songTitle": "Tribute",
+          "spotifyId": "7FZpLLgrZAM2FG0TeTAtOO",
           "duration": "3:47",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -192,6 +364,7 @@
         {
           "songId": 7,
           "songTitle": "Echelon",
+          "spotifyId": "33QKFfOwgTrCkHHnSRwFbn",
           "duration": "2:56",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -200,6 +373,7 @@
         {
           "songId": 8,
           "songTitle": "The Other World",
+          "spotifyId": "2gOuNmhEylNuAOyEXjTob4",
           "duration": "2:15",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -208,6 +382,7 @@
         {
           "songId": 9,
           "songTitle": "003",
+          "spotifyId": "0EiM1YMcWoG7sU4gGJRFiq",
           "duration": "3:08",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -226,6 +401,7 @@
         {
           "songId": 0,
           "songTitle": "Rejoyce (Acoustic)",
+          "spotifyId": "6NHL7dst0kC8j81CUPOMvC",
           "duration": "1:40",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -234,6 +410,7 @@
         {
           "songId": 1,
           "songTitle": "Embrace (Acoustic)",
+          "spotifyId": "67ZlUuCkbOSAtBpVE8vKGv",
           "duration": "3:39",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -242,6 +419,7 @@
         {
           "songId": 2,
           "songTitle": "10 (Acoustic)",
+          "spotifyId": "5RVeyYZFuYOlFpAYE3ii6G",
           "duration": "3:39",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -250,6 +428,7 @@
         {
           "songId": 3,
           "songTitle": "Precedence (Acoustic)",
+          "spotifyId": "3o3qpWE5G8wRxY6cJLJQOz",
           "duration": "2:39",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -258,6 +437,7 @@
         {
           "songId": 4,
           "songTitle": "The Descend (Acoustic)",
+          "spotifyId": "5cN86pmFOkqQIg2xOibDUZ",
           "duration": "2:11",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -266,6 +446,7 @@
         {
           "songId": 5,
           "songTitle": "Arise (Acoustic)",
+          "spotifyId": "6TrO7dzZZZYTZvuy32FMyv",
           "duration": "1:22",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -274,6 +455,7 @@
         {
           "songId": 6,
           "songTitle": "Tribute (Acoustic)",
+          "spotifyId": "4BzqE8z9ed6BtkrdEOPtPf",
           "duration": "3:47",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -282,6 +464,7 @@
         {
           "songId": 7,
           "songTitle": "Echelon (Acoustic)",
+          "spotifyId": "2jhuK9Ui4kssTLnm7AYOE5",
           "duration": "2:56",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -290,6 +473,7 @@
         {
           "songId": 8,
           "songTitle": "The Other World",
+          "spotifyId": "1kDFkqc0efPVPs2B5ioO9U",
           "duration": "2:15",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -298,6 +482,7 @@
         {
           "songId": 9,
           "songTitle": "003A",
+          "spotifyId": "4r3nVJBGvlhvpm7y3RwQfR",
           "duration": "3:08",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -306,6 +491,7 @@
         {
           "songId": 10,
           "songTitle": "Broken (Acoustic)",
+          "spotifyId": "0kpzxEOKUTzzWlnMCcIASi",
           "duration": "4:03",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -314,6 +500,7 @@
         {
           "songId": 11,
           "songTitle": "Come Again (H Again)",
+          "spotifyId": "5YB4EqwD2Bi0oCxqnfPThO",
           "duration": "4:03",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -322,6 +509,7 @@
         {
           "songId": 12,
           "songTitle": "Cuerdas Del Coraźon (Stripped)",
+          "spotifyId": "6UsAFaUD7Exem4GsQ098Rn",
           "duration": "3:14",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -340,6 +528,7 @@
         {
           "songId": 0,
           "songTitle": "Evolve",
+          "spotifyId": "3JwcZGNxpHtRGIxHVsToQH",
           "duration": "2:27",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -348,6 +537,7 @@
         {
           "songId": 1,
           "songTitle": "Vici",
+          "spotifyId": "2mcFSK5ptIyQ20xfAKsemM",
           "duration": "3:30",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -356,6 +546,7 @@
         {
           "songId": 2,
           "songTitle": "Oath",
+          "spotifyId": "65qsguym9R9KUl063RA7WS",
           "duration": "3:45",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -374,6 +565,7 @@
         {
           "songId": 0,
           "songTitle": "Rejoyce",
+          "spotifyId": "1XXAtPArdmYzCiCCsIFQcf",
           "duration": "1:47",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -382,6 +574,7 @@
         {
           "songId": 1,
           "songTitle": "Evolve",
+          "spotifyId": "0WCXzxPrgT5OBsxYquqCfP",
           "duration": "2:26",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -390,6 +583,7 @@
         {
           "songId": 2,
           "songTitle": "Vici",
+          "spotifyId": "4o4c4w3W06g8bQaQXSxKQK",
           "duration": "3:30",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -398,6 +592,7 @@
         {
           "songId": 3,
           "songTitle": "Obscure",
+          "spotifyId": "247rt4fcn2iquICOKMBfBj",
           "duration": "2:42",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -406,6 +601,7 @@
         {
           "songId": 4,
           "songTitle": "Liberate",
+          "spotifyId": "3cPTCUS5BeCdavYdAETtVI",
           "duration": "3:12",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -414,6 +610,7 @@
         {
           "songId": 5,
           "songTitle": "Unity",
+          "spotifyId": "6k2njKy4n1Lao3ozry0GtJ",
           "duration": "3:47",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -422,6 +619,7 @@
         {
           "songId": 6,
           "songTitle": "Triumph",
+          "spotifyId": "0e7vdve1V9Izbjt5LVav8z",
           "duration": "3:56",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -430,6 +628,7 @@
         {
           "songId": 7,
           "songTitle": "Inspire",
+          "spotifyId": "3yQE6LwOWE1aZ6rVrtoGtd",
           "duration": "1:44",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -438,6 +637,7 @@
         {
           "songId": 8,
           "songTitle": "Oath",
+          "spotifyId": "3tWollrylwNejwi0sV2HON",
           "duration": "3:50",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -446,6 +646,7 @@
         {
           "songId": 9,
           "songTitle": "Nirvana",
+          "spotifyId": "1R3cyNeg7fI7uwqziMY9jn",
           "duration": "2:29",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -464,6 +665,7 @@
         {
           "songId": 0,
           "songTitle": "Echelon v2",
+          "spotifyId": "68GfFkR3ZCWBGoCDhIhDJb",
           "duration": "3:15",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -472,6 +674,7 @@
         {
           "songId": 1,
           "songTitle": "Xion",
+          "spotifyId": "76woWhxMQnTIzMfxj7Dorx",
           "duration": "3:16",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
@@ -479,7 +682,72 @@
         }, {
           "songId": 2,
           "songTitle": "Origin",
+          "spotifyId": "1OX7v2QzkOrqanxPmJzMcd",
           "duration": "4:24",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        }
+      ]
+    },
+    {
+      "albumId": 8,
+      "albumTitle": "From The Shadows",
+      "artist": "Nolan Reese",
+      "albumReleaseDate": "2024-03-01",
+      "albumGenre": "Rock",
+      "coverImageUrl": "/assets/E.X.O.jpg",
+      "trackList": [
+        {
+          "songId": 0,
+          "songTitle": "Rejoyce - Shadow Version",
+          "spotifyId": "5AjZ7ObXwuuc3RSPblWvme",
+          "duration": "30:33",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        },
+        {
+          "songId": 1,
+          "songTitle": "Forgotten - Acoustic Version",
+          "spotifyId": "1KkwgGKbvtgVJhmfoXvTWO",
+          "duration": "30:30",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        }, 
+        {
+          "songId": 2,
+          "songTitle": "From The Shadows",
+          "spotifyId": "5ytKdxkozvvvxBDPopu7mV",
+          "duration": "30:03",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        },
+        {
+          "songId": 3,
+          "songTitle": "Evolve - Shadow Version",
+          "spotifyId": "6uoDZxOF6OrijdDDs5tf5X",
+          "duration": "30:00",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        },
+        {
+          "songId": 4,
+          "songTitle": "S.S. - Light Version",
+          "spotifyId": "2088zIWD99bvab2PQLDlhb",
+          "duration": "30:00",
+          "artist": "Nolan Reese",
+          "songGenre": "Rock",
+          "songReleaseDate": "2024-03-01"
+        },
+        {
+          "songId": 5,
+          "songTitle": "To The Light",
+          "spotifyId": "7I3wnxVJ7Ob6Ax1a5EoZJy",
+          "duration": "30:00",
           "artist": "Nolan Reese",
           "songGenre": "Rock",
           "songReleaseDate": "2024-03-01"
