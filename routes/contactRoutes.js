@@ -15,11 +15,13 @@ router.post('/', async (req, res) => {
   });
 
   const mailOptions = {
-    from: email,
+    from: process.env.EMAIL_USER, 
     to: process.env.EMAIL_USER,
+    replyTo: email, 
     subject: `Contact form from ${name}`,
-    text: message,
+    text: `Message from ${name} (${email}):\n\n${message}`,
   };
+  
 
   try {
     await transporter.sendMail(mailOptions);
