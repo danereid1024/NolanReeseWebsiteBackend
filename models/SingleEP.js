@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const albumSchema = new mongoose.Schema({
+const singlesEPSchema = new mongoose.Schema({
     id: {
         type: Number,
         required: true,
@@ -20,4 +20,4 @@ const albumSchema = new mongoose.Schema({
     }
     });
 
-    module.exports = mongoose.model('Album', albumSchema);
+    module.exports = mongoose.model('SingleEP', singlesEPSchema);
