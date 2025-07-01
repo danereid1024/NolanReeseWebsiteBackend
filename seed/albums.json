@@ -3,36 +3,36 @@
         "id": 0,
         "title": "10.03",
         "spotifyId": "5fNMOPBT5NaXyNGkfjJRnz",
-        "coverImageUrl": "http://localhost:3000/images/10.03.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/10.03.jpg"
     },
     {
         "id": 1,
         "title": "Time & Space",
         "spotifyId": "42vfO2JUqRtpmkaJDUmSw7",
-        "coverImageUrl": "http://localhost:3000/images/timeandspace.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/timeandspace.jpg"
     },
     {
         "id": 2,
         "title": "003",
         "spotifyId": "26VKSd4CsZonBjIWP9oS8d",
-        "coverImageUrl": "http://localhost:3000/images/003.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/003.jpg"
     },
     {
         "id": 3,
         "title": "003A",
         "spotifyId": "5RkV2CdyMl0kPsXMqEbkmg",
-        "coverImageUrl": "http://localhost:3000/images/003A.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/003A.jpg"
     },
     {
         "id": 4,
         "title": "30",
         "spotifyId": "7cXInL1Md3EzlsuPQojNQG",
-        "coverImageUrl": "http://localhost:3000/images/30.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/30.jpg"
     },
     {
         "id": 5,
         "title": "From The Shadows",
         "spotifyId": "6GNzGkUb0WUyPZmCeg1nKB",
-        "coverImageUrl": "http://localhost:3000/images/fromtheshadows.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/fromtheshadows.jpg"
     }
 ]
