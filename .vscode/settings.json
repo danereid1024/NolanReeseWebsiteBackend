@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ae619536-4102-4027-b2df-df9095347e7d/resourceGroups/appsvc_linux_westus2/providers/Microsoft.Web/sites/NolanReeseWebsiteBackend",
+    "appService.deploySubpath": "."
+}
