@@ -9,30 +9,30 @@
         "id": 1,
         "title": "Time & Space",
         "spotifyId": "42vfO2JUqRtpmkaJDUmSw7",
-        "coverImageUrl": "https://https://nolan-reese-website-backend.vercel.app/assets/timeandspace.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/timeandspace.jpg"
     },
     {
         "id": 2,
         "title": "003",
         "spotifyId": "26VKSd4CsZonBjIWP9oS8d",
-        "coverImageUrl": "https://https://nolan-reese-website-backend.vercel.app/images/003.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/003.jpg"
     },
     {
         "id": 3,
         "title": "003A",
         "spotifyId": "5RkV2CdyMl0kPsXMqEbkmg",
-        "coverImageUrl": "https://https://nolan-reese-website-backend.vercel.app/images/003A.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/003A.jpg"
     },
     {
         "id": 4,
         "title": "30",
         "spotifyId": "7cXInL1Md3EzlsuPQojNQG",
-        "coverImageUrl": "https://https://nolan-reese-website-backend.vercel.app/images/30.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/30.jpg"
     },
     {
         "id": 5,
         "title": "From The Shadows",
         "spotifyId": "6GNzGkUb0WUyPZmCeg1nKB",
-        "coverImageUrl": "https://https://nolan-reese-website-backend.vercel.app/images/fromtheshadows.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/fromtheshadows.jpg"
     }
 ]
