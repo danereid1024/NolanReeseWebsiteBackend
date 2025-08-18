@@ -3,54 +3,54 @@
         "id": 0,
         "title": "Infinity",
         "spotifyId": "2w60Op11ZSmkf8wyeqZBQU",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/infinity.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/infinity.jpg"
     },
     {
         "id": 1,
         "title": "Come Again",
         "spotifyId": "25yDDyBpBSeONWNdUxwG6O",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/comeagain.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/comeagain.jpg"
     },
     {
         "id": 2,
         "title": "A Little Piece of Heaven - Nolan Reese Rework",
         "spotifyId": "2K4htuAU44Lfk92Nbuc2dp",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/alittlepieceofheaven.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/alittlepieceofheaven.jpg"
     },
     {
         "id": 3,
         "title": "Cuerdas Del Corazón (Strings of the Heart)",
         "spotifyId": "0BVU85OZSaDOoPt7kdxWO3",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/stringofhearts.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/stringofhearts.jpg"
     },
     {
         "id": 4,
         "title": "E.V.O",
         "spotifyId": "5AXXLURuoTu3s9dPsLjVQV",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/E.V.O.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/E.V.O.jpg"
     },
     {
         "id": 5,
         "title": "E.X.O",
         "spotifyId": "398YIaQSVbwgXGCXFIwDFJ",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/E.X.O.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/E.X.O.jpg"
     },
     {
         "id": 6,
         "title": "From The Shadows",
         "spotifyId": "1hNPz36ZETGrki0Sxigl7b",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/fromtheshadows-single.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/fromtheshadows-single.jpg"
     },
     {
         "id": 7,
         "title": "Beyond Oblivion",
         "spotifyId": "1MUibJ7Vog88zqdDksW3D5",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/beyondoblivion.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/beyondoblivion.jpg"
     },
     {
         "id": 8,
         "title": "Zion",
         "spotifyId": "5QDbH4AyuseiIaPR5OEyuU",
-        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/images/Zion.jpg"
+        "coverImageUrl": "https://nolan-reese-website-backend.vercel.app/assets/Zion.jpg"
     }
 ]
