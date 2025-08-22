@@ -3,13 +3,13 @@
         "id": 0,
         "title": "10.03",
         "spotifyId": "5fNMOPBT5NaXyNGkfjJRnz",
-        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/assets/10.03.jpg"
+        "coverImageUrl": "nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/assets/10.03.jpg"
     },
     {
         "id": 1,
         "title": "Time & Space",
         "spotifyId": "42vfO2JUqRtpmkaJDUmSw7",
-        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/assets/timeandspace.jpg"
+        "coverImageUrl": "nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/timeandspace.jpg"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "id": 3,
         "title": "003A",
         "spotifyId": "5RkV2CdyMl0kPsXMqEbkmg",
-        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/assets/003A.jpg"
+        "coverImageUrl": "https://nolanreesewebsitebackend-awcugbb7befxdvdq.westus2-01.azurewebsites.net/images/003A.jpg"
     },
     {
         "id": 4,
